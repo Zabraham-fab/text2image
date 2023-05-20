@@ -16,6 +16,6 @@ def generateIme_AndOpen(prompt, image_count):
         webbrowser.open(image.url)
 
 
-openai.api_key = "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"
+openai.api_key = " "
 
 generateIme_AndOpen("cats moonwalking",1)

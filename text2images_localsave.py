@@ -21,5 +21,5 @@ def generateIme_AndSave(prompt, image_count):
 
 
 
-openai.api_key = "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"
+openai.api_key = " "
 generateIme_AndSave("cats moonwalking",1)
